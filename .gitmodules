@@ -1,0 +1,3 @@
+[submodule "software/ledger-smb"]
+	path = software/ledger-smb
+	url = git@github.com:Aufin/ledger-smb.git
